@@ -1,5 +1,5 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: https://raw.githubusercontent.com/linjoin/ad-/refs/heads/main/%E9%BB%91%E5%90%8D%E5%8D%95.txt
+Snapshot-Content-Location: https://raw.githubusercontent.com/linjoin/ADGUARD_HEI/refs/heads/main/%E9%BB%91%E5%90%8D%E5%8D%95.txt?token=GHSAT0AAAAAADNAXDMSKBELANFVKGKNEPZS2HSMU5Q
 Subject: 
 Date: Fri, 17 Oct 2025 15:17:10 -0000
 MIME-Version: 1.0
