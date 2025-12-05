@@ -1,1 +1,1 @@
-适用于ADGUARD的黑名单
+"Filter list for AdGuard"
